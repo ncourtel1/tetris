@@ -1,6 +1,5 @@
-export default class ShapeComponent{
+export default class NextPieceComponent{
    constructor(shape){
       this.shape = shape;
    }
 }
-// cell size: 
